@@ -6,7 +6,9 @@
 *google*
 *__pycache__*
 venv
+.venv
 gen
+tensorflow/
 
 # Ignore the directory in which `clangd` stores its local index.
 /.cache/
